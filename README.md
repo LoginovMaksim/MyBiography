@@ -1,6 +1,6 @@
 # Биография
 
-![](https://github.com/LoginovMaksim/MyBiography/blob/main/Majakovszkij.jpg)
+![](https://raw.githubusercontent.com/LoginovMaksim/MyBiography/main/Majakovszkij.jpg)
 
 ## Влади́мир Влади́мирович Маяко́вский 
 
