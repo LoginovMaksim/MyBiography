@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/LoginovMaksim/MyBiography/main/Majakovszkij.jpg)
 
-## Влади́мир Влади́мирович Маяко́вский 
+## Владимир Владимирович Маяковский 
 
 (19 июля 1893, Багдади, Кутаисская губерния — 14 апреля 1930, Москва)
 
